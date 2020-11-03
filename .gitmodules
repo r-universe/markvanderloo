@@ -1,3 +1,49 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
+	shallow = true
+[submodule "gower"]
+	path = gower
+	url = https://github.com/markvanderloo/gower
+	shallow = true
+	subdir = pkg
+[submodule "hashr"]
+	path = hashr
+	url = https://github.com/markvanderloo/hashr
+	shallow = true
+	subdir = pkg
+[submodule "lumberjack"]
+	path = lumberjack
+	url = https://github.com/markvanderloo/lumberjack
+	shallow = true
+	subdir = pkg
+[submodule "rspa"]
+	path = rspa
+	url = https://github.com/markvanderloo/rspa
+	shallow = true
+	subdir = pkg
+[submodule "rtrim"]
+	path = rtrim
+	url = https://github.com/markvanderloo/rtrim
+	shallow = true
+	subdir = pkg
+[submodule "settings"]
+	path = settings
+	url = https://github.com/markvanderloo/settings
+	shallow = true
+	subdir = pkg
+[submodule "simputation"]
+	path = simputation
+	url = https://github.com/markvanderloo/simputation
+	shallow = true
+	subdir = pkg
+[submodule "stringdist"]
+	path = stringdist
+	url = https://github.com/markvanderloo/stringdist
+	shallow = true
+	subdir = pkg
+[submodule "tinytest"]
+	path = tinytest
+	url = https://github.com/markvanderloo/tinytest
+	shallow = true
+	subdir = pkg
