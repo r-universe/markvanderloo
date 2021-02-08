@@ -23,11 +23,6 @@
 	url = https://github.com/markvanderloo/rspa
 	shallow = true
 	subdir = pkg
-[submodule "rtrim"]
-	path = rtrim
-	url = https://github.com/markvanderloo/rtrim
-	shallow = true
-	subdir = pkg
 [submodule "settings"]
 	path = settings
 	url = https://github.com/markvanderloo/settings
