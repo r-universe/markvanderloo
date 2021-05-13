@@ -8,51 +8,60 @@
 	url = https://github.com/markvanderloo/extremevalues
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "gower"]
 	path = gower
 	url = https://github.com/markvanderloo/gower
 	shallow = true
 	subdir = pkg
 	registered = true
+	oncran = true
 [submodule "hashr"]
 	path = hashr
 	url = https://github.com/markvanderloo/hashr
 	shallow = true
 	subdir = pkg
 	registered = true
+	oncran = true
 [submodule "lumberjack"]
 	path = lumberjack
 	url = https://github.com/markvanderloo/lumberjack
 	shallow = true
 	subdir = pkg
 	registered = true
+	oncran = true
 [submodule "rspa"]
 	path = rspa
 	url = https://github.com/markvanderloo/rspa
 	shallow = true
 	subdir = pkg
 	registered = true
+	oncran = true
 [submodule "settings"]
 	path = settings
 	url = https://github.com/markvanderloo/settings
 	shallow = true
 	subdir = pkg
 	registered = true
+	oncran = true
 [submodule "simputation"]
 	path = simputation
 	url = https://github.com/markvanderloo/simputation
 	shallow = true
 	subdir = pkg
 	registered = true
+	oncran = true
 [submodule "stringdist"]
 	path = stringdist
 	url = https://github.com/markvanderloo/stringdist
 	shallow = true
 	subdir = pkg
 	registered = true
+	oncran = true
 [submodule "tinytest"]
 	path = tinytest
 	url = https://github.com/markvanderloo/tinytest
 	shallow = true
 	subdir = pkg
 	registered = true
+	oncran = true
