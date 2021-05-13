@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "extremevalues"]
+	path = extremevalues
+	url = https://github.com/markvanderloo/extremevalues
+	shallow = true
+	registered = true
 [submodule "gower"]
 	path = gower
 	url = https://github.com/markvanderloo/gower
