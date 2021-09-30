@@ -1,9 +1,5 @@
 [
   {
-    "package": "extremevalues",
-    "oncran": true
-  },
-  {
     "package": "gower",
     "oncran": true
   },
