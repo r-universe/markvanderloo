@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "package": "gower",
+    "oncran": true
+  },
+  {
+    "package": "hashr",
+    "oncran": true
+  },
+  {
+    "package": "lumberjack",
+    "oncran": true
+  },
+  {
+    "package": "rspa",
+    "oncran": true
+  },
+  {
+    "package": "settings",
+    "oncran": true
+  },
+  {
+    "package": "simputation",
+    "oncran": true
+  },
+  {
+    "package": "stringdist",
+    "oncran": true
+  },
+  {
+    "package": "tinytest",
+    "oncran": true
+  }
+]
