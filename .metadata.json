@@ -1,5 +1,9 @@
 [
   {
+    "package": "accumulate",
+    "oncran": true
+  },
+  {
     "package": "gower",
     "oncran": true
   },

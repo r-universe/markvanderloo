@@ -3,6 +3,12 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "accumulate"]
+	path = accumulate
+	url = https://github.com/markvanderloo/accumulate
+	shallow = true
+	subdir = pkg
+	registered = true
 [submodule "gower"]
 	path = gower
 	url = https://github.com/markvanderloo/gower
