@@ -1,10 +1,22 @@
 [
   {
+    "package": "gower",
+    "oncran": true
+  },
+  {
     "package": "accumulate",
     "oncran": true
   },
   {
-    "package": "gower",
+    "package": "tinytest",
+    "oncran": true
+  },
+  {
+    "package": "rspa",
+    "oncran": true
+  },
+  {
+    "package": "simputation",
     "oncran": true
   },
   {
@@ -16,23 +28,11 @@
     "oncran": true
   },
   {
-    "package": "rspa",
-    "oncran": true
-  },
-  {
     "package": "settings",
     "oncran": true
   },
   {
-    "package": "simputation",
-    "oncran": true
-  },
-  {
     "package": "stringdist",
-    "oncran": true
-  },
-  {
-    "package": "tinytest",
     "oncran": true
   }
 ]
