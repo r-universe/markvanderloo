@@ -9,6 +9,11 @@
 	shallow = true
 	subdir = pkg
 	registered = true
+[submodule "extremevalues"]
+	path = extremevalues
+	url = https://github.com/cran/extremevalues
+	shallow = true
+	registered = true
 [submodule "gower"]
 	path = gower
 	url = https://github.com/markvanderloo/gower
