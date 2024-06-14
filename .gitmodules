@@ -37,6 +37,9 @@
 	path = stringdist
 	url = https://github.com/markvanderloo/stringdist
 	subdir = pkg
+[submodule "synthesizer"]
+	path = synthesizer
+	url = https://github.com/cran/synthesizer
 [submodule "tinytest"]
 	path = tinytest
 	url = https://github.com/markvanderloo/tinytest
