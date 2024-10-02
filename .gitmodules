@@ -39,7 +39,8 @@
 	subdir = pkg
 [submodule "synthesizer"]
 	path = synthesizer
-	url = https://github.com/cran/synthesizer
+	url = https://github.com/markvanderloo/synthesizer
+	subdir = pkg
 [submodule "tinytest"]
 	path = tinytest
 	url = https://github.com/markvanderloo/tinytest
